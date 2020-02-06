@@ -14,7 +14,10 @@
 - `git diff` 
 
 # branching
- 
+- `git branch`
+- `git branch <BRANCH_NAME>`
+- `git checkout <BRANCH_NAME>` 
+- `git checkout -b <BRANCH_NAME>`
 
 # stashing
 
