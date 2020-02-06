@@ -11,6 +11,7 @@
 # committing files
 - `git commit -m "<MESSAGE>"`
 - `git log` 
+- `git diff` 
 
 # branching
  
