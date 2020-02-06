@@ -1,5 +1,5 @@
 # initializing a git repository
-- `git init` 
+- `git init`
 - `git config --local user.username <USERNAME>`
 - `git config --local user.email <EMAIL>`
 - `git config --local user.name <NAME>`
