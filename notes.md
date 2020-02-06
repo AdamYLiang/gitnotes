@@ -22,8 +22,8 @@
 
 # stashing
 - `git stash`
-- `git list`
-- `git apply`
+- `git stash list`
+- `git stash apply` 
 
 # pushing to github
 - `git remote add origin <HTTPS GIT URL>`
