@@ -20,9 +20,16 @@
 - `git checkout -b <BRANCH_NAME>`
 
 # stashing
-
+- `git stash`
+- `git list`
+- `git apply`
 
 # pushing to github
+- `git remote add origin <HTTPS GIT URL>`
+- `git remote` or `git remote -v`
+- `git push -u origin master` 
+    - `git push` afterwards
+
 
 Git popularity: https://insights.stackoverflow.com/survey/2017
 
