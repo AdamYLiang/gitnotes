@@ -18,6 +18,7 @@
 - `git branch <BRANCH_NAME>`
 - `git checkout <BRANCH_NAME>` 
 - `git checkout -b <BRANCH_NAME>`
+- `git merge <BRANCH_NAME> master` 
 
 # stashing
 - `git stash`
@@ -29,6 +30,7 @@
 - `git remote` or `git remote -v`
 - `git push -u origin master` 
     - `git push` afterwards
+- `git clone <HTTPS GIT URL>` 
 
 
 Git popularity: https://insights.stackoverflow.com/survey/2017
